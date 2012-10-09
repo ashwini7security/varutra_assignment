@@ -1,0 +1,30 @@
+/* 
+  Author :- Ashwini Kumar
+  College :- SICSR 
+  Qualification :- MSC(ca)
+*/
+
+This script tells you what pages two of your  friends like in common on Facebook.
+
+check out the libs/index.php file. 
+
+I have done this using facebook php sdk . This assignment was new to me and i really 
+enjoyed it . I never worked with FB api. I learnt alot of things like:-
+
+1. how to work with FB API.
+2. How to deploy your fb app on Heroku. 
+3. Integrating FB login in your application.
+4. I actually deployed one sample app on Heroku. Check out the link below 
+
+https://pacific-mountain-2456.herokuapp.com/
+
+It's a sample app. When we are developing FB APP Heroku give us  produnction env 
+and we can set our development env for same APP. Heroku is really cool.
+
+reference:-
+
+https://developers.facebook.com/docs/
+https://developers.facebook.com/docs/reference/api/user/
+
+
+Thanks for this  assignment :) 

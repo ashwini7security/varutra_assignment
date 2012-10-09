@@ -1,0 +1,27 @@
+/* Author:- Ashwini Kumar
+   College:- SICSR
+   Qualification:- MSc(ca)
+*/
+
+
+In second assignment as i understand that i have to write a program similar to nslookup utility which we have in linux. 
+
+I never did network programming but this assignment was also cool and gave me good understanding of netwrok programming. 
+
+# In first file StupidLookup.class i tried to make utility like nslookup which give you interactive interface to find 
+Ip of various domain servers and vice versa.If you type localhost it will give you IP of localhsot and vice versa.
+
+# In second file Port_scan.class i tried to do port scaning which tells you which port are using by your local machine. 
+ 
+
+
+
+what i learned :-
+
+1. what is socket and socket programming and how we can use java socket packages for information security.
+
+references :-
+
+http://docs.oracle.com/javase/7/docs/api/java/net/InetAddress.html
+
+   Thanks for the nice assignment :) 
